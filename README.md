@@ -1,25 +1,29 @@
-# Airline Excel Dashboard 
+# Airline Excel Dashboard
 
-This project is an Excel dashboard that analyzes airline performance data.  
-It provides clear insights using charts and visuals to help identify trends, performance gaps, and improvements.
+This dashboard presents key flight performance insights using interactive charts in Microsoft Excel. It tracks passenger counts, cancellations, delays, and other critical metrics to support data-driven decisions in the aviation sector.
 
-## Dashboard Features:
-- Total flight count analysis
-- Monthly and yearly trends
-- Performance by destination
-- Visual KPIs using charts and slicers
+## Dashboard Preview
 
-## Tools Used:
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- Slicers
-- Power Pivot 
+![Airline Dashboard](Airline_dashboard.png)
 
-##  Sample Dashboard:
-![Airline--excel-dashboard](./Airline_dashboard.png)
+## Project Details
+- *Tool Used*: Microsoft Excel
+- *Techniques*: Charts, Slicers, PivotTables
+- *Focus Areas*:
+  - Flight performance metrics
+  - Delay and cancellation analysis
+  - Trend monitoring over time
+
+## Insights Gained
+- Top causes of delays
+- Airlines with highest passenger traffic
+- Trends in cancellation rates
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
 
 ---
 
-## Objective:
-To show how Excel can be used to analyze airline data and visualize key metrics for better decision making.
+*Built with ❤ by Mariam Anuoluwapo*
