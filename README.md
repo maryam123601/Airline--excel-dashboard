@@ -1,5 +1,8 @@
 # Airline Excel Dashboard
 
+[![GitHub - maryam 123601](https://img.shields.io/badge/GitHub-maryam123601-181717?logo=github)](https://github.com/maryam123601)
+
+This Excel project provides flight insights using charts and Power Pivot...
 This dashboard presents key flight performance insights using interactive charts in Microsoft Excel. It tracks passenger counts, cancellations, delays, and other critical metrics to support data-driven decisions in the aviation sector.
 
 ## Dashboard Preview
