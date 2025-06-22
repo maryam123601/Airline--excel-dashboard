@@ -17,7 +17,7 @@ It provides clear insights using charts and visuals to help identify trends, per
 - Power Pivot 
 
 ##  Sample Dashboard:
-![Airline--excel-dashboard](./Airline_Dashboard.png)
+![Airline--excel-dashboard](./Airline_dashboard.png)
 
 ---
 
